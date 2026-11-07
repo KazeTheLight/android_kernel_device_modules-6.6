@@ -126,6 +126,4 @@ obj-y += drivers/firmware/cirrus/
 
 obj-y += mm/
 
-obj-y += drivers/input/fingerprint/
-
 endif
